@@ -1,0 +1,41 @@
+<i class="sprite sprite-footer-phone-icon"></i>
+<i class="sprite sprite-mail"></i>
+<i class="sprite sprite-skype"></i>
+<i class="sprite sprite-vk"></i>
+<i class="sprite sprite-yan"></i>
+
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-footer-phone-icon {
+    width: 14px;
+    height: 19px;
+    background-position: -5px -5px;
+}
+
+.sprite-mail {
+    width: 26px;
+    height: 26px;
+    background-position: -29px -5px;
+}
+
+.sprite-skype {
+    width: 26px;
+    height: 26px;
+    background-position: -5px -41px;
+}
+
+.sprite-vk {
+    width: 26px;
+    height: 26px;
+    background-position: -41px -41px;
+}
+
+.sprite-yan {
+    width: 26px;
+    height: 26px;
+    background-position: -65px -5px;
+}

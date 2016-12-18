@@ -1,0 +1,63 @@
+<i class="sprite sprite-photoshop"></i>
+<i class="sprite sprite-service-duc"></i>
+<i class="sprite sprite-service-html"></i>
+<i class="sprite sprite-service-seo"></i>
+<i class="sprite sprite-service-server"></i>
+<i class="sprite sprite-service-shop"></i>
+<i class="sprite sprite-service-worpress"></i>
+<i class="sprite sprite-service-yii"></i>
+
+
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-photoshop {
+    width: 27px;
+    height: 26px;
+    background-position: -5px -5px;
+}
+
+.sprite-service-duc {
+    width: 26px;
+    height: 46px;
+    background-position: -42px -5px;
+}
+
+.sprite-service-html {
+    width: 26px;
+    height: 30px;
+    background-position: -78px -5px;
+}
+
+.sprite-service-seo {
+    width: 30px;
+    height: 30px;
+    background-position: -5px -61px;
+}
+
+.sprite-service-server {
+    width: 22px;
+    height: 30px;
+    background-position: -78px -45px;
+}
+
+.sprite-service-shop {
+    width: 29px;
+    height: 27px;
+    background-position: -114px -5px;
+}
+
+.sprite-service-worpress {
+    width: 30px;
+    height: 30px;
+    background-position: -114px -42px;
+}
+
+.sprite-service-yii {
+    width: 24px;
+    height: 27px;
+    background-position: -110px -82px;
+}
